@@ -15,7 +15,7 @@ A ServiceNow System Administrator project that uses Flow Designer to automate la
 ## Project Resources
 
 * **Project Report:** https://docs.google.com/document/d/1I53XXWeY8ZeZD7EjmS1p9M-wrHURJxOsT2ektwbHIQY/edit?usp=sharing
-* **Demo Video:** https://drive.google.com/file/d/1LZPMBb77hQdEPGDGX4NOB6zoNBG6DCK-/view?usp=sharing
+* **Demo Video:** https://drive.google.com/file/d/1zZAdSvJFGJiEJ3JwFtY5gNzPyj2Be2RH/view?usp=sharing
 
 
 
